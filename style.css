@@ -821,4 +821,8 @@ body {
   .section1 .sidebar2 img:nth-child(2){
     margin-top: 0 !important;
   }
+
+  .exclusive-brand {
+    display: none !important;
+  }
 }
